@@ -2,7 +2,6 @@
   JusDo2684
 </h1>
 
-
 <h1 align="center"><u>📌 About Me... 📌</u></h1>
 <br>
 
