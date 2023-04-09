@@ -20,7 +20,7 @@
   <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>     
 </p>
 <p align="center">
-C# / EXILED / Unity / Visual Studio   
+<font size="30">C# | EXILED | Unity | Visual Studio</font>   
 </p>
 
 <!---
