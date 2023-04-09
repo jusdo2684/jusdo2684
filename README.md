@@ -8,7 +8,7 @@
 <p align="center">
   👋 Hello ! My name is JusDo2684 👋
   <br>
-  I'm a <b>C# dev</b> on EXILED (<a href="https://scpslgame.com/">SCP:SL</a>) and Windows Appliation
+  I'm a <b>C# dev</b> on EXILED (<a href="https://scpslgame.com/">SCP:SL</a>) and Windows Application
   <br>
   📧 For any request, you can contact me on <a href="https://discord.com/users/712290829057916980/"><b>jus_do2684#9776</b></a> 📧
 </p>
