@@ -1,14 +1,14 @@
 
 
-<h2 align="center">About Me...</h2>
+<h2 align="center"><u>About Me...</u></h2>
 <br>
 
 <p align="center">
-  Hello ! My name is JusDo
+  👋 Hello ! My name is JusDo 👋
   <br>
-  I'm a C# dev on EXILED (SCP:SL) and Windows Appliation
+  I'm a <b>C# dev</b> on EXILED (SCP:SL) and Windows Appliation
   <br>
-  For any request, you can contact me on jus_do2684#9776
+  📧 For any request, you can contact me on <a href="https://discord.com/users/712290829057916980/"><b>jus_do2684#9776</b></a> 📧
 </p>
 
 
