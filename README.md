@@ -14,10 +14,10 @@
 <h2 align="center"><u>🛠 The Language, Frameworks and Tools I'm Using... 🛠</u></h2>
 
 <p align="center">
-  <code><img title="CSharp" height="50" src="ReadMeImages/CSharp.jpg"></code>
-  <code><img title="Exiled" height="50" src="ReadMeImages/Exiled.jpg"></code>
-  <code><img title="Unity" height="50" src="ReadMeImages/Unity.png"></code>
-  <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>
+  <code><img title="CSharp" height="50" src="ReadMeImages/CSharp.jpg"></code>     
+  <code><img title="Exiled" height="50" src="ReadMeImages/Exiled.jpg"></code>     
+  <code><img title="Unity" height="50" src="ReadMeImages/Unity.png"></code>      
+  <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>     
 </p>
 
 <!---
