@@ -13,6 +13,13 @@
 
 <h2 align="center"><u>The Tools I'm Using...</u></h2>
 
+<p align="center">
+  <code><img title="CSharp" height="40" src="ReadMeImages/CSharp.jpg"></code>
+  <code><img title="Exiled" height="40" src="ReadMeImages/Exiled.jpg"></code>
+  <code><img title="Unity" height="40" src="ReadMeImages/Unity.jpg"></code>
+  <code><img title="VisualStudio" height="40" src="ReadMeImages/VisualStudio.jpg"></code>
+</p>
+
 <!---
 jusdo2684/jusdo2684 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
