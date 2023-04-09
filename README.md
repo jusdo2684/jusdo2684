@@ -1,4 +1,6 @@
-<marquee direction="up">Ce texte va défiler de bas en haut</marquee>
+<h1 align="center">
+  <marquee direction="up">Ce texte va défiler de bas en haut</marquee>
+</h1>
 
 
 <h1 align="center"><u>📌 About Me... 📌</u></h1>
