@@ -16,8 +16,8 @@
 <p align="center">
   <code><img title="CSharp" height="40" src="ReadMeImages/CSharp.jpg"></code>
   <code><img title="Exiled" height="40" src="ReadMeImages/Exiled.jpg"></code>
-  <code><img title="Unity" height="40" src="ReadMeImages/Unity.jpg"></code>
-  <code><img title="VisualStudio" height="40" src="ReadMeImages/VisualStudio.jpg"></code>
+  <code><img title="Unity" height="40" src="ReadMeImages/Unity.png"></code>
+  <code><img title="VisualStudio" height="40" src="ReadMeImages/VisualStudio.png"></code>
 </p>
 
 <!---
