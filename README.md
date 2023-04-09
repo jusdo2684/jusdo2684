@@ -19,6 +19,9 @@
   <code><img title="Unity" height="50" src="ReadMeImages/Unity.png"></code>      
   <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>     
 </p>
+<p align="center">
+C# / EXILED / Unity / Visual Studio   
+</p>
 
 <!---
 jusdo2684/jusdo2684 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
