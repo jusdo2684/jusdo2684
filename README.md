@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><u>📌About Me...📌</u></h1>
+<h1 align="center"><u>📌 About Me... 📌</u></h1>
 <br>
 
 <p align="center">
@@ -11,7 +11,7 @@
   📧 For any request, you can contact me on <a href="https://discord.com/users/712290829057916980/"><b>jus_do2684#9776</b></a> 📧
 </p>
 
-<h2 align="center"><u>🛠 The Language, Frameworks and Tools I'm Using...🛠</u></h2>
+<h2 align="center"><u>🛠 The Language, Frameworks and Tools I'm Using... 🛠</u></h2>
 
 <p align="center">
   <code><img title="CSharp" height="50" src="ReadMeImages/CSharp.jpg"></code>
