@@ -8,7 +8,7 @@
 <p align="center">
   👋 Hello ! My name is JusDo2684 👋
   <br>
-  I'm a <b>C# dev</b> on EXILED (<a href="https://scpslgame.com/">SCP:SL</a>) and Windows Application
+  I'm a <b>C# dev</b> on EXILED (<a href="https://scpslgame.com/">SCP:SL</a>) and Android, IOS and Windows Application
   <br>
   📧 For any request, you can contact me on <a href="https://discord.com/users/712290829057916980/"><b>jus_do2684#9776</b></a> 📧
 </p>
@@ -19,10 +19,12 @@
   <code><img title="CSharp" height="50" src="ReadMeImages/CSharp.jpg"></code>     
   <code><img title="Exiled" height="50" src="ReadMeImages/Exiled.jpg"></code>     
   <code><img title="Unity" height="50" src="ReadMeImages/Unity.png"></code>      
-  <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>     
+  <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>
+  <code><img title="MAUI" height="50" src="ReadMeImages/MAUILogo.png"></code>
+ 
 </p>
 <p align="center">
-<b>C#</b> | <b>EXILED</b> | <b>Unity</b> | <b>Visual Studio</b>
+<b>C#</b> | <b>EXILED</b> | <b>Unity</b> | <b>Visual Studio</b> | <b>MAUI .NET</b>
 </p>
 
 <!---
