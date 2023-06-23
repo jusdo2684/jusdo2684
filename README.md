@@ -24,7 +24,7 @@
  
 </p>
 <p align="center">
-<b>C#</b> | <b>EXILED</b> | <b>Unity</b> | <b>Visual Studio</b> | <b>MAUI .NET</b>
+<b>C#</b> | <b>EXILED</b> | <b>Unity</b> | <b>Visual Studio</b> | <b>.NET MAUI</b>
 </p>
 
 <!---
