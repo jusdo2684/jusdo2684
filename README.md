@@ -22,7 +22,7 @@
   <code><img title="VisualStudio" height="50" src="ReadMeImages/VisualStudio.png"></code>
 </p>
 <p align="center">
-<b>C#</b> | <b>EXILED</b> | <b>Unity</b> | <b>Visual Studio</b> | <b>.NET MAUI</b>
+<b>C#</b> | <b>EXILED</b> | <b>Unity</b> | <b>Visual Studio</b>
 </p>
 
 <!---
